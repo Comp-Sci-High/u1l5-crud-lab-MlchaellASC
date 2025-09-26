@@ -32,7 +32,7 @@ song.listenedTo = "false"
 // Task 7: Delete the 'artist' property
 delete song.artist
 
-// Commit your changes with an appropriate message.
+// Commit your changes with an appropriate message.done
 // ----------------------------------
 // NESTED ARRAYS & OBJECTS SECTION
 // Task 8: Create an object called 'album' with properties song's album's 'name', 'year', and 'songs' (leave 'songs' as empty array for now)
